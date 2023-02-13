@@ -13,7 +13,6 @@
 ├── babel.config.js
 ├── package.json
 ├── public
-    <br/>
 │   └── index.html
 ├── src
 │   ├── App.tsx
